@@ -7,4 +7,3 @@
 Remove the episode when a particular field is not presented.
 It need to be set up in the YAML configuration file.
 }
-

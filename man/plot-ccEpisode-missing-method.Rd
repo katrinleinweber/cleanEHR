@@ -13,4 +13,3 @@
 \description{
 Episode chart default fields
 }
-

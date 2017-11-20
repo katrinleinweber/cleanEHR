@@ -3,12 +3,8 @@
 \docType{class}
 \name{ccTable-class}
 \alias{ccTable-class}
-<<<<<<< HEAD
-\title{Process the EHR data in table format}
-=======
 \alias{ccTable}
-\title{Rearrange and clean the critical care record into a 2D table.}
->>>>>>> Added some code to try connect ccdata with database
+\title{Process the EHR data in table format}
 \description{
 ccRecord data are re-arranged into tables where the columns stands for 
 data fields (e.g. heart rate, blood pressure) and the rows stands for 

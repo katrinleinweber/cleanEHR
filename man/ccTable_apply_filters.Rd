@@ -20,4 +20,3 @@ tb$range_filter()
 tb$apply_filter() # apply only the range filter ragardless of the conf. 
 }
 }
-

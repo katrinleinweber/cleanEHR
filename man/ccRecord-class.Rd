@@ -3,12 +3,8 @@
 \docType{class}
 \name{ccRecord-class}
 \alias{ccRecord-class}
-<<<<<<< HEAD
-\title{The S4 class which holds all the CCHIC patient record - served as a database.}
-=======
 \alias{ccRecord}
-\title{The S3 class which holds all the CCHIC patient record - served as a database.}
->>>>>>> Added some code to try connect ccdata with database
+\title{The S4 class which holds all the CCHIC patient record - served as a database.}
 \description{
 ccRecord is a class to hold the raw episode data parsed directly 
 from XML or CSV files.

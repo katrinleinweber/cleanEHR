@@ -25,4 +25,3 @@ has a higher recording frequency than the set frequency (freq), the closest
 data point will be taken. It is suggested the `freq` should not be set 
 lower than the maximum recording frequency in the original dataset.
 }
-

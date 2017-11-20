@@ -18,4 +18,3 @@ data.table demographic table with spell ID in column spell
 same output like ccd_demographic_table but in 
 addition with a spell ID.
 }
-

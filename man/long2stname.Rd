@@ -15,4 +15,3 @@ short name character such as "h_rate"
 \description{
 Convert long names to short names.
 }
-

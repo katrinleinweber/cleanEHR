@@ -37,4 +37,3 @@ ct$filter_range("yellow")
 ct$apply_filters
 }
 }
-

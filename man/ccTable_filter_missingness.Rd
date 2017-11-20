@@ -13,4 +13,3 @@ two key items to be set in the YAML configuration file.
 So if we set the labels is 24, and accept_2d is 70. It means we accept 
 all the missing rate that is lower than 30% every 24 data points.
 }
-

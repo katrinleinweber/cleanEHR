@@ -7,4 +7,3 @@
 This is a member function of ccTable-class. Using create_cctable is a safer and 
 easier way to create the ccTable. See create_cctable.
 }
-

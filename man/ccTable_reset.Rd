@@ -7,4 +7,3 @@
 Restore the object to its initial status. All the filters, quality and the 
 cleaned table will be removed.
 }
-

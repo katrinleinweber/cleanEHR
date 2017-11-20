@@ -15,4 +15,3 @@ ccd_demographic_table(record, dtype = TRUE)
 The data type of each column is in its corresponding data 
 type.
 }
-

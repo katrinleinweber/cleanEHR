@@ -18,4 +18,3 @@ ccRecord object
 \description{
 Get a subset of episodes that have the same from ccRecord .
 }
-

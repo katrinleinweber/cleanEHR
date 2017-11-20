@@ -17,4 +17,3 @@ ccRecord-class
 \description{
 Get a subset of episodes from ccRecord.
 }
-

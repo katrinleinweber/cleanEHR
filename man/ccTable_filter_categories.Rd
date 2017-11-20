@@ -28,4 +28,3 @@ ct$filter_categories() # run the filter
 ct$apply_filters()     # apply the filter and create the clean table
 }
 }
-

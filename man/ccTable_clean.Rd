@@ -14,4 +14,3 @@ tb <- create_cctable(ccd, conf, 1)
 tb$clean()
 }
 }
-
